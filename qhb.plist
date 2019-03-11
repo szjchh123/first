@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   Property List.plist
-   WalletClient
-
-   Created by 张宁宁 on 2018/6/21.
-   Copyright (c) 2018年 Mr.ZNN. All rights reserved.
--->
+<?xml version="1.0" encoding="utf-8"?>
 <plist version="1.0">
     <dict>
         <key>items</key>
